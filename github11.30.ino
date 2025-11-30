@@ -1,4 +1,6 @@
+int led = 32;
 void setup() {
+  pinMode(led, OUTPUT);
   // put your setup code here, to run once:
 
 }
